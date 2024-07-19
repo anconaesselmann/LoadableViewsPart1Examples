@@ -1,7 +1,3 @@
-//
-//  CancelingTasksApp.swift
-//  CancelingTasks
-//
 //  Created by Axel Ancona Esselmann on 7/12/24.
 //
 
