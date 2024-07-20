@@ -26,7 +26,8 @@ struct ContentView: View {
             Spacer()
         }
         .padding()
-        .frame(width: 300, height: 200)
+        .frame(width: 300, height: 100)
+        .navigationTitle("")
     }
 
     private func runTask() {
